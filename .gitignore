@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# idea folder (PyCharm)
+.idea/
+
+# Git stuff
+.git/
